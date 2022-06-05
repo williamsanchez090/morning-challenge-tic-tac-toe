@@ -1,11 +1,8 @@
-# 📊 Morning Challenge: Tic-Tac-Toe
+![image](https://user-images.githubusercontent.com/101963767/172074560-e489f38d-c2fe-4d15-860e-396ec1dfaf13.png)
 
-### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
+# Tic-Tac-Toe
 
-### How to submit your code for review:
-
+ Created a two player Tic-Tac-Toe game where users are be able to click to place their X or O and if they win the program displays  their win in the DOM. 
  
-
-I completed the challenge: 5
-I feel good about my code: 3.5
+### One thing I would change is to have Allmight fromt the anime this is themed after display upon winning.
 
